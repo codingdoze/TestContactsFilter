@@ -1,8 +1,5 @@
 package com.example.akshays.testcontactsfilter;
 
-/**
- * Created by akshays on 20-Jul-17.
- */
 
 class ContactsList {
     private String names;

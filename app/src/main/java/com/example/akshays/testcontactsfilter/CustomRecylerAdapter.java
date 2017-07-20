@@ -14,9 +14,7 @@ import android.widget.TextView;
 import java.text.Normalizer;
 import java.util.List;
 
-/**
- * Created by akshays on 20-Jul-17.
- */
+
 
 public class CustomRecylerAdapter extends RecyclerView.Adapter<CustomRecylerAdapter.MyViewHolder> {
     private List<ContactsList> contactsList;
